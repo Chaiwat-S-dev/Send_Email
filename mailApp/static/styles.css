@@ -1,0 +1,41 @@
+body {
+	background-color: #002B36;
+	font-family: sans-serif;
+}
+#content {
+	background-color: #38BFA7;
+	border-radius: 20px;
+	padding: 25px;
+}
+#content > h1 {
+	text-align: center;
+	padding-top: 0;
+}
+
+input[type=text] {
+	width: 100%;
+  	padding: 12px;
+  	border: 1px solid #ccc;
+  	border-radius: 4px;
+  	box-sizing: border-box;
+  	margin-top: 6px;
+  	margin-bottom: 16px;
+  	resize: vertical;
+}
+
+.tag {
+	font-size: 20px;
+	background-color: #38BFA7;
+	padding: 2px;
+}
+
+textarea {
+	width: 100%;
+	padding: 12px;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+	margin-top: 6px;
+	margin-bottom: 16px;
+	resize: vertical;
+}
